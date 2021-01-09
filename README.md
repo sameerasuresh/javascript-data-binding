@@ -1,2 +1,2 @@
 # javascript-data-binding
-simple data biding with javascript without thirdparty library.
+simple data binding with javascript without thirdparty library.
